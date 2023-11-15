@@ -18,11 +18,3 @@ class LinkedList:
         while (current_node):
             print(current_node.data, end="->")
             current_node = current_node.next
-myLL = LinkedList()
-
-myLL.insert_at_begin(50)
-myLL.insert_at_begin(51)
-myLL.insert_at_begin(52)
-myLL.insert_at_begin(53)
-myLL.insert_at_begin(54)
-myLL.print_LL()
