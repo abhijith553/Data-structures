@@ -7,3 +7,6 @@ class Node:
         # reference to previous node in DLL
         self.prev = prev
         self.data = data
+class doubly_linked_list:
+    def __init__(self):
+        self.head = Node("None")
