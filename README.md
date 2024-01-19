@@ -1,4 +1,4 @@
-#implimenting stack data structures using arrays:
+Stack data structure was implimented using linked list
 
 1. create a class named array_stack
 2. initialize a constructor with a self object named data (list)
