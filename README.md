@@ -1,3 +1,3 @@
-Here you will find some basic to intermediate level dsa related programs.
+DSA with Python
 
-Happy coding!
+This repository also contains solutions to the book "Data Structures and Algorithms with Python - Michale T. Goodrich"
